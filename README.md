@@ -12,12 +12,6 @@ Welcome to the **DocGPT-Models** repository, which contains the training models 
 - **Pneumonia**
 - **Eye Diseases**
 
-## Features
-
-- **Specialized Medical Models**: Each model is trained on extensive datasets specific to its medical domain, ensuring precise and reliable responses.
-- **Contextual Understanding**: The models retain conversation history to provide personalized and coherent interactions.
-- **Customizable Data Integration**: Users can add new medical documents, enabling the knowledge base to be tailored to specific needs.
-- **User-Friendly Interface**: Features such as speech-to-text and text-to-speech enhance accessibility and user experience.
 
 ## Getting Started
 
